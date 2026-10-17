@@ -41,7 +41,7 @@ status-website:
   name: Yoorie Status
   logoUrl: https://yoorie.com/brand/yoorie-logo-720.png
   favicon: https://yoorie.com/brand/yoorie-icon-email.png
-  themeUrl: /yoorie-theme.css
+  themeUrl: https://status.yoorie.com/yoorie-theme.css  # absolute so the static exporter does not crawl it as a page; assets/ is copied to the site root
   introTitle: "**Yoorie Status** - live uptime and response times for Yoorie services."
   introMessage: "Checked every 5 minutes by GitHub Actions. Questions? Email [info@yoorie.com](mailto:info@yoorie.com)."
   navbar:
