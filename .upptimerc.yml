@@ -1,31 +1,55 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Yoorie Status - Upptime configuration (https://upptime.js.org)
+owner: yoorie
+repo: status
+user-agent: yoorie-status
 
+# All hosts verified live with curl on 2026-10-17 before adding.
+# Endpoints that redirect to a login page are checked at the final login URL so the check gets a direct 200.
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Yoorie Website
+    url: https://yoorie.com
+    icon: https://yoorie.com/brand/yoorie-icon-email.png
+    maxResponseTime: 5000
+  - name: Yoorie CRM & Client Portal
+    url: https://crm.yoorie.com/authentication/login
+    slug: crm
+    icon: https://yoorie.com/brand/yoorie-icon-email.png
+    maxResponseTime: 5000
+  - name: Yoorie App
+    url: https://app.yoorie.com/admin/login
+    slug: app
+    icon: https://yoorie.com/brand/yoorie-icon-email.png
+    maxResponseTime: 5000
+  - name: Yoorie Booking
+    url: https://book.yoorie.com
+    slug: booking
+    icon: https://yoorie.com/brand/yoorie-icon-email.png
+    maxResponseTime: 5000
+  - name: Yoorie Analytics
+    url: https://analytics.yoorie.com/matomo.js
+    slug: analytics
+    icon: https://yoorie.com/brand/yoorie-icon-email.png
+    maxResponseTime: 5000
+  - name: Yoorie Social
+    url: https://social.yoorie.com/up
+    slug: social
+    icon: https://yoorie.com/brand/yoorie-icon-email.png
+    maxResponseTime: 5000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.yoorie.com
+  name: Yoorie Status
+  logoUrl: https://yoorie.com/brand/yoorie-logo-720.png
+  favicon: https://yoorie.com/brand/yoorie-icon-email.png
+  themeUrl: /yoorie-theme.css
+  introTitle: "**Yoorie Status** - live uptime and response times for Yoorie services."
+  introMessage: "Checked every 5 minutes by GitHub Actions. Questions? Email [info@yoorie.com](mailto:info@yoorie.com)."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: yoorie.com
+      href: https://yoorie.com
+  robotsText: "User-agent: *\nAllow: /"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: "© Yoorie. Status page powered by open-source Upptime."

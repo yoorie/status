@@ -1,0 +1,33 @@
+/* Yoorie Status theme for Upptime - Yoorie purple #6C3BEA */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+:root {
+  --body-background-color: #f7f5fe;
+  --body-text-color: #16112b;
+  --card-background-color: #ffffff;
+  --nav-background-color: #ffffff;
+  --nav-border-bottom-color: #ebe5fc;
+  --nav-current-border-bottom-color: #6c3bea;
+  --card-border-color: #ebe5fc;
+  --down-border-left-color: #e5484d;
+  --down-background-color: #fde8e8;
+  --degraded-border-left-color: #f5a524;
+  --up-border-left-color: #12a150;
+  --tag-color: #ffffff;
+  --tag-up-background-color: #12a150;
+  --tag-down-background-color: #e5484d;
+  --tag-degraded-background-color: #f5a524;
+  --change-background-color: #f5a524;
+  --error-button-border-color: #5b2ed6;
+  --error-button-background-color: #6c3bea;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #5b2ed6;
+  --submit-button-background-color: #6c3bea;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 1;
+  --graph-filter: hue-rotate(95deg) saturate(1.3); /* tints the default graph colour towards purple */
+}
+body { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+nav img, .logo img, header img { max-height: 34px; width: auto; }
+article, .card, section > div { border-radius: 12px; }
+a { color: #6c3bea; }
+h1, h2 { letter-spacing: -0.01em; }
