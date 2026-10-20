@@ -4,107 +4,119 @@
     "url": "https://yoorie.com",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "yoorie-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 1004,
-    "timeDay": 1122,
+    "timeDay": 0,
     "timeWeek": 1004,
     "timeMonth": 1004,
     "timeYear": 1004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-20": 24
+    }
   },
   {
     "name": "Yoorie CRM & Client Portal",
     "url": "https://crm.yoorie.com/authentication/login",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "crm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 837,
-    "timeDay": 1001,
+    "timeDay": 0,
     "timeWeek": 837,
     "timeMonth": 837,
     "timeYear": 837,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-20": 20
+    }
   },
   {
     "name": "Yoorie App",
     "url": "https://app.yoorie.com/admin/login",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 1547,
-    "timeDay": 1994,
+    "timeDay": 0,
     "timeWeek": 1547,
     "timeMonth": 1547,
     "timeYear": 1547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-20": 15
+    }
   },
   {
     "name": "Yoorie Booking",
     "url": "https://book.yoorie.com",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "booking",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 1109,
-    "timeDay": 1529,
+    "timeDay": 0,
     "timeWeek": 1109,
     "timeMonth": 1109,
     "timeYear": 1109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-20": 10
+    }
   },
   {
     "name": "Yoorie Analytics",
     "url": "https://analytics.yoorie.com/matomo.js",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "analytics",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 847,
-    "timeDay": 1042,
+    "timeDay": 0,
     "timeWeek": 847,
     "timeMonth": 847,
     "timeYear": 847,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-20": 5
+    }
   },
   {
     "name": "Yoorie Social",
     "url": "https://social.yoorie.com/up",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1000,
-    "timeDay": 1426,
+    "timeDay": 0,
     "timeWeek": 1000,
     "timeMonth": 1000,
     "timeYear": 1000,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-20": 0
+    }
   }
 ]
