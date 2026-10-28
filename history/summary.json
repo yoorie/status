@@ -4,19 +4,20 @@
     "url": "https://yoorie.com",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "yoorie-website",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 600,
     "timeDay": 265,
     "timeWeek": 452,
     "timeMonth": 600,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2026-10-20": 25
+      "2026-10-20": 25,
+      "2026-10-28": 25
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://crm.yoorie.com/authentication/login",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "crm",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 672,
     "timeDay": 534,
     "timeWeek": 619,
     "timeMonth": 672,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2026-10-20": 20
+      "2026-10-20": 20,
+      "2026-10-28": 20
     }
   },
   {
@@ -44,19 +46,20 @@
     "url": "https://app.yoorie.com/admin/login",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "app",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1566,
     "timeDay": 1530,
     "timeWeek": 1574,
     "timeMonth": 1566,
     "timeYear": 1566,
     "dailyMinutesDown": {
-      "2026-10-20": 15
+      "2026-10-20": 15,
+      "2026-10-28": 15
     }
   },
   {
@@ -64,19 +67,20 @@
     "url": "https://book.yoorie.com",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "booking",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 1141,
     "timeDay": 2357,
     "timeWeek": 1228,
     "timeMonth": 1141,
     "timeYear": 1141,
     "dailyMinutesDown": {
-      "2026-10-20": 10
+      "2026-10-20": 10,
+      "2026-10-28": 10
     }
   },
   {
@@ -84,19 +88,20 @@
     "url": "https://analytics.yoorie.com/matomo.js",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "analytics",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 559,
     "timeDay": 438,
     "timeWeek": 438,
     "timeMonth": 559,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2026-10-20": 5
+      "2026-10-20": 5,
+      "2026-10-28": 5
     }
   },
   {
@@ -104,9 +109,9 @@
     "url": "https://social.yoorie.com/up",
     "icon": "https://yoorie.com/brand/yoorie-icon-email.png",
     "slug": "social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +121,8 @@
     "timeMonth": 1134,
     "timeYear": 1134,
     "dailyMinutesDown": {
-      "2026-10-20": 1
+      "2026-10-20": 1,
+      "2026-10-28": 0
     }
   }
 ]
